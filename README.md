@@ -9,11 +9,8 @@
 
 For all tasks use the following endPoint `https://my-json-server.typicode.com/rpswallace/test/products` and wireframe `https://miro.com/app/board/uXjVOsZsYn0=/`. The main goal is not the styling, is the functionality, the way the endPoint is consumed and data parsed to reflect it in the browser. For styles, Bootstrap is available, please use it as needed, jQuery is also available.
 
-Task #1
-1. Determine how many products are coming, use it in the title "My Product List ([total products])"
+**Task #1:** Determine how many products are coming, use it in the title "My Product List ([total products])"
 
-Task #2
-2. Build a product grid. 
+**Task #2:** Build a product grid. 
 
-Task #3
-3. Determine the cost of buying all products, place it at "Total: [sum all prices]"
+**Task #3:** Determine the cost of buying all products, place it at "Total: [sum all prices]"
