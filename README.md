@@ -2,7 +2,7 @@
 
 1. After cloning the repository run `php -S localhost:3333`
 2. Go to `http://localhost:3333/index.html`
-3. The basic page has jQuery 3.6.0, Bootstrap 5, and Axios to parse the endPoint data.
+3. The basic page has jQuery 3.6.0, Bootstrap 5, plus Axios to consume and parse the endPoint data.
 4. Under the scripts folder there's a `main.js` where all the logic must be placed.
 5. I have created an endpoint that retrieves a list of products. `https://my-json-server.typicode.com/rpswallace/test/products`
 6. Please create a new branch before starting a task, that way it can review it in an isolated way before continuing with the next one.
