@@ -15,5 +15,5 @@ Task #1
 Task #2
 2. Build a product grid. 
 
-Task #2
+Task #3
 3. Determine the cost of buying all products, place it at "Total: [sum all prices]"
